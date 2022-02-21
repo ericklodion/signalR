@@ -1,5 +1,5 @@
 # SignalR
-O que é o pattern SignalR ?
+O que é o SignalR ?
 É uma biblioteca que tem como objetivo a comunicação em tempo real entre aplicações
 
 Neste projeto busco implementar de forma simples o SignalR criando um chat entre console apps.
